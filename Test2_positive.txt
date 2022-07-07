@@ -1,0 +1,6 @@
+DSID4	D	T2	positive	SID	QHNF	ICU	
+DAHS5	D	T2	positive	AHS	HQNF		
+BAEO13	B	T2	positive	AEO	QHNF	ICU	
+CAHS14	C	T2	positive	AHS	HQNF		
+CATO23	C	T2	positive	ATO	QHNF	ICU	
+AAHS24	A	T2	positive	AHS	HQNF		

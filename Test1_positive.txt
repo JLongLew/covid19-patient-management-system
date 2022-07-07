@@ -1,0 +1,7 @@
+DATO1	D	T1	positive	ATO	QHNF	WARD	
+AATO2	A	T1	positive	ATO	QHNF	WARD	
+CAHS3	C	T1	positive	AHS	HQNF		
+DAHS11	D	T1	positive	AHS	HQNF		
+DACC12	D	T1	positive	ACC	QHNF	ICU	
+AAEO21	A	T1	positive	AEO	QHNF	ICU	
+CAHS22	C	T1	positive	AHS	HQNF		

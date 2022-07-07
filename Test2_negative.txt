@@ -1,0 +1,17 @@
+BSID6	B	T2	negative	SID	HQFR	
+DSID7	D	T2	negative	SID	HQFR	
+DACC8	D	T2	negative	ACC	QDFR	
+CSID9	C	T2	negative	SID	HQFR	
+AAEO10	A	T2	negative	AEO	QDFR	
+DSID15	D	T2	negative	SID	HQFR	
+CSID16	C	T2	negative	SID	HQFR	
+DACC17	D	T2	negative	ACC	QDFR	
+BAEO18	B	T2	negative	AEO	QDFR	
+DAHS19	D	T2	negative	AHS	CWFR	
+CSID20	C	T2	negative	SID	HQFR	
+CAEO25	C	T2	negative	AEO	QDFR	
+DAHS26	D	T2	negative	AHS	CWFR	
+BAEO27	B	T2	negative	AEO	QDFR	
+CATO28	C	T2	negative	ATO	QDFR	
+DSID29	D	T2	negative	SID	HQFR	
+BATO30	B	T2	negative	ATO	QDFR	

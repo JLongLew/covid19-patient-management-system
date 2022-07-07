@@ -1,0 +1,13 @@
+DACC8	D	T3	negative	ACC	RU	
+CSID9	C	T3	negative	SID	RU	
+AAEO10	A	T3	negative	AEO	RU	
+CSID16	C	T3	negative	SID	RU	
+DACC17	D	T3	negative	ACC	RU	
+BAEO18	B	T3	negative	AEO	RU	
+DAHS19	D	T3	negative	AHS	CW	
+CSID20	C	T3	negative	SID	RU	
+DAHS26	D	T3	negative	AHS	CW	
+BAEO27	B	T3	negative	AEO	RU	
+CATO28	C	T3	negative	ATO	RU	
+DSID29	D	T3	negative	SID	RU	
+BATO30	B	T3	negative	ATO	RU	

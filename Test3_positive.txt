@@ -1,0 +1,4 @@
+BSID6	B	T3	positive	SID	QHNF	WARD	
+DSID7	D	T3	positive	SID	QHNF	WARD	
+DSID15	D	T3	positive	SID	QHNF	ICU	
+CAEO25	C	T3	positive	AEO	QHNF	ICU	
